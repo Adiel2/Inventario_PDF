@@ -39,7 +39,7 @@
                     }
                 %>
             </table>
-            
+            <a href="../PdfAdiel/" class="btn-danger">Mostrar archivo PDF</a>
         </div>
         <%@include file="../WEB-INF/Vistas-Parciales/pie.jspf" %>
     </body>
